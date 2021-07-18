@@ -52,7 +52,7 @@
 
 .para {
   ;
-  background-color: #F8E2CF;
+  background-color: #346751;
   width: 100%;
   height: 150px;
   display: flex;
@@ -60,7 +60,7 @@
   flex-wrap: wrap;
   justify-content: space-around;
   justify-content: center;
-  border: 4px solid #DA0037;
+  border: 4px solid #161616;
 
 }
 
